@@ -4,7 +4,7 @@ A Roblox module for uploading and retrieving text from text hosting services
 
 ## Supported services
 
-- Hastebin
+- [Hastebin](https://github.com/theLMGN/textUpl#hastebin)
 
 ## Usage
 
